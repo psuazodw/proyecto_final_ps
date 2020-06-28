@@ -43,8 +43,6 @@
             </br>
             <input type="submit" value="Guardar"/>
             </br>
-            <label>SubTotal: </label>
-            <label>Almacenara el Total de Precio * Cantidad</label>
         </form>
         
     </body>
