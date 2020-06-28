@@ -1,0 +1,5 @@
+com\mycompany\supermercado\guardarProducto.class
+com\mycompany\supermercado\guardarUsuario.class
+com\mycompany\supermercado\guardarPedido.class
+com\mycompany\supermercado\dbConnection.class
+com\mycompany\supermercado\guardarCategoria.class
